@@ -1,0 +1,16 @@
+build/
+Build/
+dist/
+bin/
+obj/
+Debug/
+Release/
+nbproject/
+
+*.depend
+*.layout
+
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
