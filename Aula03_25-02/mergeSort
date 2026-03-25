@@ -1,0 +1,15 @@
+vetor = | 10 | 3 | 5 | 13 | 2 | 6 | 11 | 0 | 7 |
+
+- inicio = 0
+- fim = 8
+
+chamada inicial: mergeSort(V, 0, 8) - mergeSort(V, inicio, fim)
+---------------------------------------------------------------------
+- inicio = 0
+- fim = 8
+
+meio = 0 + (8 - 0) / 2;
+- meio = 4
+
+mergeSort (DIREITA): mergeSort(V, 0, 4) - mergeSort(V, inicio, meio)
+---------------------------------------------------------------------
